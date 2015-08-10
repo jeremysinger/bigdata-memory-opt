@@ -1,0 +1,9 @@
+
+Papers on optimizing Big Data apps on managed platforms
+
+* FACADE: A Compiler and Runtime for (Almost) Object-Bounded Big Data
+Applications. ASPLOS 2015
+* A Bloat-Aware Design for Big Data Applications. ISMM 2014
+* Data Structure Aware Garbage Collector. ISMM 2015
+
+
